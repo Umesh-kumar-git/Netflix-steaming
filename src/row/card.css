@@ -1,0 +1,16 @@
+.card-section{
+    background-color: black;
+    margin: 1rem;
+    border: 1px solid #fff;
+    cursor: pointer;
+  
+}
+
+.card-img img{
+    width: 200px;
+    height: 250px;
+}
+
+.card-section:hover{
+translate: 0px -4px ;
+}

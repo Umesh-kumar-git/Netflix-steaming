@@ -1,0 +1,25 @@
+
+*{
+    margin: 0px;
+    padding:0px;
+    box-sizing: border-box;
+    color: #fff;
+}
+
+.container{
+width: 100wv;
+height: 95vh;
+display: flex;
+justify-content: center;
+align-items: center;
+
+}
+
+.container img{
+   width: 100%;
+   height: 100%;
+}
+.banner{
+    position: absolute;
+    
+}

@@ -1,0 +1,21 @@
+ .row-line{
+   background-color: rgb(41, 38, 38);
+
+   display: flex;
+   flex-direction: column;
+
+ }
+ .rows{
+   display: flex;
+   overflow: scroll;
+   background-color: black;
+}
+.heading{
+ background-color: black;
+   padding: 1rem 2rem;
+   font-size: 2rem;
+}
+ .rows::-webkit-scrollbar
+ {
+   display: none;
+ }
